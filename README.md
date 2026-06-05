@@ -19,7 +19,8 @@ Nevertheless, The first 3 months from January 2026 to March 2026 of Cyclistic's 
 manipulating complex data structures in a short time frame, and reconfiguring them into meaningful insights. 
 
 ## ASK
-The data is determined to be comprehensive, but contains some flaws. Most notably nulls, and outliers as seen in Process Report.sql
+The data is determined to be comprehensive, but contains some flaws. Most notably nulls, and outliers as seen in Q12026AnalysisinPython26.ipynb
+
 
 Since the file size data in each .csv file is large I will provide an access link here as an example of what can also be intergrated with this analysis.
 (<https://divvy-tripdata.s3.amazonaws.com/index.html>)
@@ -29,7 +30,8 @@ Next, I would ask myself what relates to eachother within the schemas of data, a
 
 ## PREPARE
 
-My business task is to analyze how annual members, and casual riders use their Cyclistic bikes differently. In addition, we added the scope of the entire Case Study. Further, why would casual riders buy Cyclistic annual memberships? Plus, how digital media could be valued to influence more conversions from data-driven decision making to bring additional revenue. We begin with Preclean.sql
+My business task is to analyze how annual members, and casual riders use their Cyclistic bikes differently. In addition, we added the scope of the entire Case Study. Further, why would casual riders buy Cyclistic annual memberships? Plus, how digital media could be valued to influence more conversions from data-driven decision making to bring additional revenue. We continued through with Q12026AnalysisinPython26.ipynb
+
 
 ## PROCESS
 
@@ -42,9 +44,10 @@ Then I focused on the largest dataset by including stations with only one statio
 ## ANALYZE
 (<https://public.tableau.com/app/profile/mark.jackson8218/viz/CaseStudyCyclisticGoogleDataAnalysis/Dashboard7#1>)
 
-.
-.
-.
+or
+visit
+CleanedComplete_Data_Viz.ipynb in main.
+
 After analysis, we learned casual members do not share clear conversion metrics within the dataset. On the weekends, casual member's ride times nearly doubles compared to annual members partly due to electric bikes on the average week. (1.8x) More data would be required to effectively answer the other questions, and be demonstrated within consideration of a review within new deadlines.
 
 In conclusion, we should integrate more qualitative, and quantitative data for analysis for the rest of 2026.  We could attain more essential, and unique data metrics of the current year. Moreover, there is room to improve how we approach our optimal impact on consumers of our product. As a service for the people we should have an understanding where our digital footprint currently was, and is as it will help us continue to grow.
@@ -58,6 +61,8 @@ I would suggest to SHARE:
 3) Build a community that reminds riders of their redeeming qualities of being a customer, and/or share positive experiences of the community converting to annual within CYCLISTIC.
 
 Why? To show our consumers we care about their overall experience with us, and show our appreciation! 
+
+Did you know there an average of 3 monthly rides in the first quarter that rides for over an hour monthly from our casual members compared to the 8 annuals members that also experience shorter than average ride times? On weekends, they could often experience half the ride time often due to their inclusion of Cyclistic electrical bikes.
 
 Thanks for reviewing this, and if you have any feedback, would like to connect, and/or need mentorship I am also looking for experiences with connecting to other Data Analysts, Data Scientists, or Engineers as well. You can find me via my portfolio here on Kaggle, as well as other DMRs like Github, and potentially soon to Youtube!
 
