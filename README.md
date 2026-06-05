@@ -2,14 +2,16 @@
 Google Data Analytics Capstone Project with Python
 
 Topic: Cyclistic Case Study directed by Lily Moreno
-Date: 05/21/2026
+Date: 06/05/2026
 
 I, Mark Jackson, worked between Python, JupiterLyte, and TABLEAU for visualizations here. 
 
 (<https://public.tableau.com/app/profile/mark.jackson8218/viz/CaseStudyCyclisticGoogleDataAnalysis/Dashboard7#1>)
 
 ## INTRODUCTION
-Initially, I was assigned a fictional role from CYCLISTIC, a bike-sharing company based in Chicaco, IL. Since 2016, they have been a successful bike-sharing company. Lily Moreno is the director, and my upper management. At this point, I am 6 months into the role, and they are known for having over 5,000 bikes with various cool features while serving over 600 stations in Chicago. We provide various pricing plans for membership including, but not limited to their annual memberships. Thankfully, the data is retrieved from a reliable source. (<https://divvybikes.com/data-license-agreement>)
+Initially, I was assigned a fictional role from CYCLISTIC, a bike-sharing company based in Chicaco, IL. Since 2016, they have been a successful bike-sharing company. Lily Moreno is the director, and my upper management. At this point, I am 6 months into the role, and they are known for having over 5,000 bikes with various cool features while serving over 600 stations in Chicago. We provide various pricing plans for membership including, but not limited to their annual memberships. 
+
+Thankfully, the data is retrieved from a reliable source. (<https://divvybikes.com/data-license-agreement>)
 License is for free, and public use sourced from DIVVY, and LYFT.
 To ensure practical protocols of data privacy, no PII (personal identifying information) is found within these documents.
 
