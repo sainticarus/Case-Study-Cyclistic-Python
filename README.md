@@ -9,7 +9,7 @@ I, Mark Jackson, worked between Python, JupiterLyte, and TABLEAU for visualizati
 (<https://public.tableau.com/app/profile/mark.jackson8218/viz/CaseStudyCyclisticGoogleDataAnalysis/Dashboard7#1>)
 
 ## INTRODUCTION
-Initially, I was assigned a fictional role from CYCLISTIC, a bike-sharing company based in Chicaco, IL. Since 2016, they have been a successful bike-sharing company. Lily Moreno is the director, and my upper management. At this point, I am 6 months into the role, and they are known for having over 5,000 bikes with various cool features while serving over 600 stations in Chicago. We provide various pricing plans for membership including, but not limited to their annual memberships. 
+Initially, I was assigned a fictional role from CYCLISTIC, a bike-sharing company based in Chicaco, IL. Since 2016, they have been a successful bike-sharing company. Lily Moreno is the director, and my upper management. At this point, I am 6 months into the role, and they are known for having over 5,000 bikes with various cool features while serving over 600 stations in Chicago. We provide various pricing plans for membership including, but not limited to their annual memberships.  Using Python I can acknowledge complex pivot tables using more data. In this example, I am providing a way to interpret data for visualization using Python.
 
 Thankfully, the data is retrieved from a reliable source. (<https://divvybikes.com/data-license-agreement>)
 License is for free, and public use sourced from DIVVY, and LYFT.
